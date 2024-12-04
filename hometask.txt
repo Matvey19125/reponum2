@@ -1,0 +1,4 @@
+Отличается изображением в файле human.txt и ветками
+2
+heat added
+Merge branch 'hat'
